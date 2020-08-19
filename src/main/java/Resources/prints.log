@@ -1,0 +1,7 @@
+11:41:47.303 [main] FATAL alpha.Demo - This is not present
+11:45:19.923 [main] DEBUG alpha.Demo - I am debugging
+11:45:19.925 [main] ERROR alpha.Demo - elements not dispalyed
+11:45:19.925 [main] INFO  alpha.Demo - successful completion of operation
+11:45:19.925 [main] FATAL alpha.Demo - This is not present
+11:46:26.925 [main] ERROR alpha.Demo - elements not dispalyed
+11:46:26.928 [main] FATAL alpha.Demo - This is not present
